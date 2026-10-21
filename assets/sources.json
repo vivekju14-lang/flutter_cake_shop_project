@@ -1,0 +1,50 @@
+[
+  {
+    "asset": "cake_1.jpg",
+    "url": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=1000&q=85",
+    "license": "https://unsplash.com/license",
+    "note": "Illustrative cake photography, not photographs of the listed businesses."
+  },
+  {
+    "asset": "cake_2.jpg",
+    "url": "https://images.unsplash.com/photo-1535141192574-5d4897c12636?auto=format&fit=crop&w=1000&q=85",
+    "license": "https://unsplash.com/license",
+    "note": "Illustrative cake photography, not photographs of the listed businesses."
+  },
+  {
+    "asset": "cake_3.jpg",
+    "url": "https://images.unsplash.com/photo-1464305795204-6f5bbfc7fb81?auto=format&fit=crop&w=1000&q=85",
+    "license": "https://unsplash.com/license",
+    "note": "Illustrative cake photography, not photographs of the listed businesses."
+  },
+  {
+    "asset": "cake_4.jpg",
+    "url": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&w=1000&q=85",
+    "license": "https://unsplash.com/license",
+    "note": "Illustrative cake photography, not photographs of the listed businesses."
+  },
+  {
+    "asset": "cake_5.jpg",
+    "url": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?auto=format&fit=crop&w=1000&q=85",
+    "license": "https://unsplash.com/license",
+    "note": "Illustrative cake photography, not photographs of the listed businesses."
+  },
+  {
+    "asset": "cake_6.jpg",
+    "url": "https://images.unsplash.com/photo-1623334044303-241021148842?auto=format&fit=crop&w=1000&q=85",
+    "license": "https://unsplash.com/license",
+    "note": "Illustrative cake photography, not photographs of the listed businesses."
+  },
+  {
+    "asset": "cake_7.jpg",
+    "url": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?auto=format&fit=crop&w=1000&q=85",
+    "license": "https://unsplash.com/license",
+    "note": "Illustrative cake photography, not photographs of the listed businesses."
+  },
+  {
+    "asset": "cake_8.jpg",
+    "url": "https://images.unsplash.com/photo-1606890737304-57a1ca8a5b62?auto=format&fit=crop&w=1000&q=85",
+    "license": "https://unsplash.com/license",
+    "note": "Illustrative cake photography, not photographs of the listed businesses."
+  }
+]
